@@ -10,7 +10,7 @@ spring:
       override-none: true  #禁止配置中心的配置将客户端配置覆盖掉
     
 server:
-  port: 8101
+  port: 8103
 
 eureka:
   instance:
